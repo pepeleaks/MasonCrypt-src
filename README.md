@@ -1,4 +1,5 @@
 # **MasonCrypt**
+# this guy is a scammer so i posted the source code 
 ---
 ***It also makes clean payload runtime and scantime***
 ---
